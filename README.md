@@ -14,19 +14,19 @@ The item shop is defined by a JSON file containing slots for daily (`daily1` thr
 {
     "//": "BR Item Shop Config",
     "daily1": {
-        "itemGrants": ["CID_TBD"],
+        "itemGrants": ["CID_703_Athena_Commando_M_Cyclone"],
         "price": 0
     },
     "daily2": {
-      "itemGrants": [ "CID_TBD"],
+      "itemGrants": [ "CID_561_Athena_Commando_M_Ikonik"],
         "price": 0
     },
     "daily3": {
-        "itemGrants": ["CID_TBD"],
+        "itemGrants": ["Pickaxe_ID_018_CandyAxe"],
         "price": 0
     },
     "daily4": {
-        "itemGrants": ["CID_TBD"],
+        "itemGrants": ["CID_701_Athena_Commando_F_PinkShortcake"],
         "price": 0
     },
     "daily5": {
